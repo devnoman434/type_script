@@ -1,0 +1,9 @@
+body{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+#changeTextBtn{
+    padding: 20px;
+}
